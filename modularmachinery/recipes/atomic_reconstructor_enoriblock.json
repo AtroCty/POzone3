@@ -1,0 +1,24 @@
+{
+    "machine": "atomic_reconstructor",
+    "recipeTime": 4,
+    "registryName": "atomic_reconstructor_enoriblock",
+    "requirements": [
+        {
+            "amount": 1,
+            "io-type": "input",
+            "item": "minecraft:iron_block",
+            "type": "item"
+        },
+        {
+            "amount": 1,
+            "io-type": "output",
+            "item": "actuallyadditions:block_crystal@5",
+            "type": "item"
+        },
+        {
+            "energyPerTick": 400,
+            "io-type": "input",
+            "type": "energy"
+        }
+    ]
+}

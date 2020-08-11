@@ -1,0 +1,24 @@
+{
+    "machine": "atomic_reconstructor",
+    "recipeTime": 1,
+    "registryName": "atomic_reconstructor_emeradic",
+    "requirements": [
+        {
+            "amount": 1,
+            "io-type": "input",
+            "item": "minecraft:emerald",
+            "type": "item"
+        },
+        {
+            "amount": 1,
+            "io-type": "output",
+            "item": "actuallyadditions:item_crystal@4",
+            "type": "item"
+        },
+        {
+            "energyPerTick": 100,
+            "io-type": "input",
+            "type": "energy"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "machine": "atomic_reconstructor",
+    "recipeTime": 1,
+    "registryName": "atomic_reconstructor_palis",
+    "requirements": [
+        {
+            "amount": 1,
+            "io-type": "input",
+            "item": "minecraft:dye@4",
+            "type": "item"
+        },
+        {
+            "amount": 1,
+            "io-type": "output",
+            "item": "actuallyadditions:item_crystal@0",
+            "type": "item"
+        },
+        {
+            "energyPerTick": 40,
+            "io-type": "input",
+            "type": "energy"
+        }
+    ]
+}
