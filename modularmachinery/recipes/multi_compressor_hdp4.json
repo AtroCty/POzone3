@@ -1,0 +1,30 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_hdp4",
+    "recipeTime": 4,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "extraplanets:compressed_mercury@0",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "magneticraft:heavy_plates@2",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier4_items@3",
+            "amount": 2
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 20000
+		}
+    ]
+}

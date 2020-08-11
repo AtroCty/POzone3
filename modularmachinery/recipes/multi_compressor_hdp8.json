@@ -1,0 +1,36 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_hdp8",
+    "recipeTime": 8,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "extraplanets:tier8_items@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@356",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@357",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier8_items@3",
+            "amount": 2
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 20000
+		}
+    ]
+}

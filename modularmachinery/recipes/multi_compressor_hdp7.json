@@ -1,0 +1,30 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_hdp7",
+    "recipeTime": 7,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "extraplanets:tier7_items@6",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "magneticraft:heavy_plates@6",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier7_items@3",
+            "amount": 2
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 20000
+		}
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_hdp1",
+    "recipeTime": 2,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "galacticraftcore:basic_item@9",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "galacticraftcore:basic_item@8",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "galacticraftcore:basic_item@10",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "galacticraftcore:heavy_plating",
+            "amount": 2
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 20000
+		}
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_hdp6",
+    "recipeTime": 6,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "extraplanets:tier6_items@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "magneticraft:heavy_plates@5",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier6_items@3",
+            "amount": 2
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 20000
+		}
+    ]
+}
