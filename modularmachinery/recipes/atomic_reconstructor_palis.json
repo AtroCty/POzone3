@@ -12,7 +12,7 @@
         {
             "amount": 1,
             "io-type": "output",
-            "item": "actuallyadditions:item_crystal@0",
+            "item": "actuallyadditions:item_crystal@1",
             "type": "item"
         },
         {
