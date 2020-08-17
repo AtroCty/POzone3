@@ -1,30 +1,24 @@
 {
     "machine": "alloy_smelter",
     "recipeTime": 1,
-    "registryName": "alloy_smelter_melodic",
+    "registryName": "alloy_smelter_manyullyn",
     "requirements": [
         {
             "amount": 64,
             "io-type": "input",
-            "item": "ore:ingotEndSteel",
+            "item": "ore:ingotCobalt",
             "type": "item"
         },
         {
             "amount": 64,
             "io-type": "input",
-            "item": "minecraft:chorus_fruit_popped",
-            "type": "item"
-        },
-        {
-            "amount": 64,
-            "io-type": "input",
-            "item": "ore:ingotThorium",
+            "item": "ore:ingotArdite",
             "type": "item"
         },
         {
             "amount": 64,
             "io-type": "output",
-            "item": "ore:ingotMelodicAlloy",
+            "item": "ore:ingotManyullyn",
             "type": "item"
         },
         {

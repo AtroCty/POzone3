@@ -1,30 +1,24 @@
 {
     "machine": "alloy_smelter",
     "recipeTime": 1,
-    "registryName": "alloy_smelter_melodic",
+    "registryName": "alloy_smelter_enderium",
     "requirements": [
         {
-            "amount": 64,
+            "amount": 32,
             "io-type": "input",
-            "item": "ore:ingotEndSteel",
+            "item": "sand",
             "type": "item"
         },
         {
             "amount": 64,
             "io-type": "input",
-            "item": "minecraft:chorus_fruit_popped",
+            "item": "ore:ingotEnderiumBase",
             "type": "item"
         },
         {
-            "amount": 64,
-            "io-type": "input",
-            "item": "ore:ingotThorium",
-            "type": "item"
-        },
-        {
-            "amount": 64,
+            "amount": 32,
             "io-type": "output",
-            "item": "ore:ingotMelodicAlloy",
+            "item": "ore:ingotEnderium",
             "type": "item"
         },
         {

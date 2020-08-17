@@ -6,19 +6,19 @@
         {
             "amount": 64,
             "io-type": "input",
-            "item": "enderio:item_alloy_endergy_ingot@6",
+            "item": "ore:ingotVividAlloy",
             "type": "item"
         },
         {
             "amount": 64,
             "io-type": "input",
-            "item": "projectred-core:resource_item@104",
+            "item": "ore:ingotElectrotineAlloy",
             "type": "item"
         },
         {
             "amount": 64,
             "io-type": "input",
-            "item": "enderio:item_alloy_ingot@2",
+            "item": "ore:ingotVibrantAlloy",
             "type": "item"
         },
         {

@@ -786,7 +786,7 @@
             "y": -3
         }, {
             "elements": [
-                "enderio:block_alloy@2"
+                "enderio:block_alloy_endergy@5"
             ],
             "x": 1,
             "z": 2,
@@ -800,7 +800,7 @@
             "y": -3
         }, {
             "elements": [
-                "enderio:block_alloy@2"
+                "enderio:block_alloy_endergy@5"
             ],
             "x": -1,
             "z": 2,
@@ -828,7 +828,7 @@
             "y": -3
         }, {
             "elements": [
-                "enderio:block_alloy@2"
+                "enderio:block_alloy_endergy@5"
             ],
             "x": 0,
             "z": 3,

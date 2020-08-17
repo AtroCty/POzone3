@@ -6,13 +6,13 @@
         {
             "amount": 16,
             "io-type": "input",
-            "item": "thermalfoundation:material@134",
+            "item": "ore:ingotPlatinum",
             "type": "item"
         },
         {
             "amount": 48,
             "io-type": "input",
-            "item": "thermalfoundation:material@131",
+            "item": "ore:ingotLead",
             "type": "item"
         },
         {
@@ -24,7 +24,7 @@
         {
             "amount": 64,
             "io-type": "output",
-            "item": "enderio:item_material@39",
+            "item": "ore:ingotEnderiumBase",
             "type": "item"
         },
         {
